@@ -1,18 +1,3 @@
-Thanks! Based on your latest file structure:
-
-```
-.gitignore  
-private_subnet.tf  
-public_subnet.tf  
-variables.tf  
-vcn.tf  
-```
-
-Here’s an updated and minimal `README.md` tailored to your current state of the repository:
-
----
-
-````markdown
 # OCI Terraform VCN Setup
 
 This repository provisions a basic Oracle Cloud Infrastructure (OCI) network using Terraform.
